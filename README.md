@@ -63,11 +63,11 @@ For **7-2 Portfolio Prep (Web Page)**, submit:
 >
 > ## CS 370 – Module Eight Journal (Portfolio Entry)
 
-**Artifact:**  
-- 📄 [TreasureHuntGame.ipynb](./TreasureHuntGame.ipynb)  <!-- TODO: update path if different -->
-- (Optional) 🖼️<img width="1751" height="827" alt="image" src="https://github.com/user-attachments/assets/7788156d-d9c6-416b-927c-5923e9f2e2fd" />
+**Artifact**
+- 📄 [`TreasureHuntGame.ipynb`](./TreasureHuntGame.ipynb)
+- 🖼️ Agent path screenshot:
 
-- Add a screenshot of the agent’s final path: `images/maze-run.png`
+  ![Treasure Maze DQN run](https://github.com/user-attachments/assets/7788156d-d9c6-416b-927c-5923e9f2e2fd)
 
 ### What I built (given vs. created)
 - **Given:** Environment and replay classes; starter notebook cells; the maze and reward rules; a working model builder.
